@@ -1,3 +1,3 @@
-# My First Open Source Repository
+## Learning Branches
 
-I am learning Git and GitHub for GSSoC.
+Today I learned Git branches.
